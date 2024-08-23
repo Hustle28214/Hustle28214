@@ -1,5 +1,6 @@
 <h2 align="center"> Hi there 👋, I'm 烟雨夜灯(Leyan Cai)</h2>
 
+## ⚡Quick Facts
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=11659A&hide_title=true&text_color=E9F1F6&bg_color=00000000&hide_border=true"/>
 
@@ -10,9 +11,11 @@
   <li> 📬Email: hackitlilwave@outlook.com</li>
 </ul>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,go,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact)
+## 💻Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true)
 
 
 
