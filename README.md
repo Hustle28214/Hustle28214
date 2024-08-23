@@ -8,7 +8,7 @@
   <li> 👩‍💻Full Stack Enthusiast, learned c/cpp/python, Rust beginner.</li>
   <li> 🧪An undergraduate student majoring in Robot Engineering at BUCT(北京化工大学), College of Mechanical and Electrical Engineering.</li>
   <li> 👉Welcome to my Blog: https://www.rotleyan.site</li>
-  <li> 📬Email: hackitlilwave@outlook.com</li>
+  <li> 📬Contact me: <a href="mailto:j>hackitlilwave@outlook.com">hackitlilwave@outlook.com </li>
 </ul>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,go,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
