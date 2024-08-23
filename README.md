@@ -5,4 +5,4 @@
 - 👉Welcome to my Blog: https://www.rotleyan.site
 - 📬Email: hackitlilwave@outlook.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,linux,opencv,qt,html,css,c,cpp,ts,prisma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,qt,html,css,ros,figma,ts,prisma,rust,vscode)](https://skillicons.dev)
