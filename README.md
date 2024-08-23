@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋, I'm 烟雨夜灯(Leyan Cai)</h2>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=11659A&hide_title=true&text_color=E9F1F6&bg_color=00000000&hide_border=true"/>
 
 - 👩‍💻Full Stack Enthusiast, learned c/cpp/python, Rust beginner.
 - 🧪An undergraduate student majoring in Robot Engineering at BUCT(北京化工大学), College of Mechanical and Electrical Engineering.
