@@ -11,6 +11,7 @@
   <li> 📬Contact me: <a href="mailto:j>hackitlilwave@outlook.com">hackitlilwave@outlook.com </li>
 </ul>
 
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,ubuntu,md,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,go,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
 
 ## 💻Language
