@@ -3,15 +3,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=11659A&hide_title=true&text_color=E9F1F6&bg_color=00000000&hide_border=true"/>
 
-- 👩‍💻Full Stack Enthusiast, learned c/cpp/python, Rust beginner.
-- 🧪An undergraduate student majoring in Robot Engineering at BUCT(北京化工大学), College of Mechanical and Electrical Engineering.
-- 👉Welcome to my Blog: https://www.rotleyan.site
-- 📬Email: hackitlilwave@outlook.com
+<ul>
+  <li>- 👩‍💻Full Stack Enthusiast, learned c/cpp/python, Rust beginner.</li>
+  <li>- 🧪An undergraduate student majoring in Robot Engineering at BUCT(北京化工大学), College of Mechanical and Electrical Engineering.</li>
+  <li>- 👉Welcome to my Blog: https://www.rotleyan.site</li>
+  <li>- 📬Email: hackitlilwave@outlook.com</li>
+</ul>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,qt,html,css,ros,figma,ts,prisma,rust,vscode)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
