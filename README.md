@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,ubuntu,md,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,go,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
 
-## 💻Language
+## 💻Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=E9F1F6&icon_color=11659A)
 
