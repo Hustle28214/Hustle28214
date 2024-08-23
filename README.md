@@ -11,3 +11,5 @@
 ![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![Hustle28214's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&hide_title=true&hide=prs&count_private=true)
