@@ -12,7 +12,7 @@
 </ul>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,ubuntu,md,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,go,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,ubuntu,md,latex,opencv,sklearn,matlab,qt,arduino,docker,npm,nodejs,html,css,ros,figma,vercel,autocad,go,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
 
 ## 💻Languages
 
