@@ -6,3 +6,8 @@
 - 📬Email: hackitlilwave@outlook.com
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,qt,html,css,ros,figma,ts,prisma,rust,vscode)](https://skillicons.dev)
+
+![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Hustle28214/github-stats/master/generated/languages.svg#gh-light-mode-only)
