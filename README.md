@@ -2,7 +2,7 @@
 
 ## ⚡Quick Facts
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=11659A&hide_title=true&text_color=E9F1F6&bg_color=00000000&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=E9F1F6&title_color=ff2121&bg_color=00000000&hide_border=true"/>
 
 <ul>
   <li> 👩‍💻Full Stack Enthusiast, currently focusing on electronics, learned c/cpp/python, Rust beginner.</li>
