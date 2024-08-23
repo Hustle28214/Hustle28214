@@ -12,8 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/Hustle28214/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Hustle28214/stats/master/generated/languages.svg#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact)
 
 
 
