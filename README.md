@@ -10,7 +10,7 @@
   <li> 📬Email: hackitlilwave@outlook.com</li>
 </ul>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,qt,html,css,ros,figma,ts,prisma,rust,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,react,linux,opencv,sklearn,matlab,qt,arduino,docker,html,css,ros,figma,ts,prisma,vue,rust,vim,vscode)](https://skillicons.dev)
 
 
 
