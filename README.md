@@ -17,9 +17,9 @@
 
 ## 💻Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=E9F1F6&icon_color=11659A#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=auto&icon_color=11659A)
 
-![Top Langs light](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=222222&icon_color=11659A#gh-light-mode-only)
+
 
 
 
