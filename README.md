@@ -2,7 +2,10 @@
 
 ## ⚡Quick Facts
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=E9F1F6&title_color=ff2121&bg_color=00000000&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=E9F1F6&title_color=ff2121&bg_color=00000000&hide_border=true#gh-dark-mode-only"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=222222&title_color=ff2121&bg_color=00000000&hide_border=true#gh-light-mode-only"/>
+
 
 <ul>
   <li> 👩‍💻Full Stack Enthusiast, currently focusing on electronics, learned c/cpp/python, Rust beginner.</li>
@@ -16,7 +19,9 @@
 
 ## 💻Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=E9F1F6&icon_color=11659A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=E9F1F6&icon_color=11659A#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=E9F1F6&icon_color=11659A#gh-light-mode-only)
 
 
 
