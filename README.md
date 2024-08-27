@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, I'm 烟雨夜灯(Leyan Cai)</h2>
 
-## ⚡Quick Facts
+## ⚡ Quick Facts
 
 
 
@@ -11,8 +11,12 @@
   <li> 📬Contact me: <a href="mailto:j>hackitlilwave@outlook.com">hackitlilwave@outlook.com </li>
 </ul>
 
-
-
-| Stats | Languages | Skills |
-|------|:------:|:------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=auto&title_color=ff2121&bg_color=00000000&hide_border=true"/> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=auto&icon_color=11659A) | [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,linux,ubuntu,md,latex,opencv,sklearn,matlab,qt,arduino,docker,npm,nodejs,html,css,ros,raspberrypi,pr,figma,vercel,autocad,go,mysql,prisma,vue,spring,rust,vim,r,vscode)](https://skillicons.dev) |
+## 📍 My Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=auto&title_color=ff2121&bg_color=00000000&hide_border=true" alt="GitHub Stats" style="display: inline-block; margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=auto&icon_color=11659A" alt="Top Languages" style="display: inline-block;"/>
+</div>
+<br />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,linux,ubuntu,md,latex,opencv,sklearn,matlab,qt,arduino,docker,npm,nodejs,html,css,ros,raspberrypi,pr,figma,vercel,autocad,go,mysql,prisma,vue,spring,rust,vim,r,vscode" alt="My Skills"/>
+</p>
