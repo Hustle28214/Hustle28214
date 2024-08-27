@@ -2,7 +2,6 @@
 
 ## ⚡Quick Facts
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=auto&title_color=ff2121&bg_color=00000000&hide_border=true"/>
 
 
 <ul>
@@ -13,13 +12,7 @@
 </ul>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,linux,ubuntu,md,latex,opencv,sklearn,matlab,qt,arduino,docker,npm,nodejs,html,css,ros,raspberrypi,pr,figma,vercel,autocad,go,mysql,prisma,vue,spring,rust,vim,r,vscode)](https://skillicons.dev)
 
-## 💻Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=auto&icon_color=11659A)
-
-
-
-
-
+| Stats | Languages | Skills |
+|------|:------:|:------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=Hustle28214&show_icons=true&icon_color=ff2121&hide_title=true&text_color=auto&title_color=ff2121&bg_color=00000000&hide_border=true"/> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hustle28214&layout=compact&bg_color=00000000&hide_border=true&text_color=auto&icon_color=11659A) | [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,react,linux,ubuntu,md,latex,opencv,sklearn,matlab,qt,arduino,docker,npm,nodejs,html,css,ros,raspberrypi,pr,figma,vercel,autocad,go,mysql,prisma,vue,spring,rust,vim,r,vscode)](https://skillicons.dev) |
