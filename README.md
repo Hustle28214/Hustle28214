@@ -7,7 +7,7 @@
 <ul>
   <li> 👩‍💻Full Stack Enthusiast, currently focusing on electronics, learned c/cpp/python, Rust beginner.</li>
   <li> 🧪An undergraduate student majoring in Robot Engineering at BUCT (<b>北京化工大学</b>), College of Mechanical and Electrical Engineering(<b>机电工程学院</b>).</li>
-  <li> 👉Welcome to my Blog: https://www.rotleyan.site</li>
+  <li> 👉Welcome to my Blog: https://www.rot-blog.vercel.app</li>
   <li> 📬Contact me: <a href="mailto:j>hackitlilwave@outlook.com">hackitlilwave@outlook.com </li>
 </ul>
 
