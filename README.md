@@ -18,5 +18,5 @@
 </div>
 <br />
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,csharp,py,js,ts,react,rust,go,vue,vite" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,react,rust,go,vue,vite" alt="My Skills"/>
 </p>
